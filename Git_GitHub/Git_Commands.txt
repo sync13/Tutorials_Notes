@@ -9,3 +9,6 @@
 
 >git add .
 	to stage your work
+
+>git commit -m "<commit message>"
+	to commit your work
