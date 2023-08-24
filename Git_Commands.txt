@@ -1,0 +1,6 @@
+>git --version
+	to the version of git
+
+>git status
+	to show the status
+

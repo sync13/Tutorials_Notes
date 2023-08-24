@@ -1,0 +1,11 @@
+Git
+Distributed Version Controlling System
+Free (open source)
+Software
+CLI (initially)
+
+
+
+GitHub/GitLab/BitBucket
+Code Hosting Service (based on git version control)
+web-based Git repository services (provide git as a service)
