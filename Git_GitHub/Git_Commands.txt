@@ -6,3 +6,6 @@
 
 >git init
 	to create the working directory as git repository
+
+>git add .
+	to stage your work
